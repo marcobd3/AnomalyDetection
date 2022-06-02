@@ -1,0 +1,1 @@
+{"fecha": {"dayOfWeek": 0, "forced": false, "timeOfDay": [21, 4], "name": "fecha", "season": 0, "holiday": 0, "weekend": 0, "customDays": 0}, "FormacionNIRHumedadPV": {"forced": false, "radius": 0, "maxval": 20, "name": "FormacionNIRHumedadPV", "minval": -10, "verbosity": 0, "clipInput": false, "n": 50, "periodic": false, "w": 21, "resolution": 0}}

@@ -1,0 +1,4 @@
+/.env
+/.env27
+*.csv
+*.ipynb_checkpoints

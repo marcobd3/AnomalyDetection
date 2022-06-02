@@ -1,0 +1,1 @@
+{"SP": {"columnCount": 2048, "spatialImp": "cpp", "synPermConnected": 0.1, "seed": 1956, "numActiveColumnsPerInhArea": 40, "globalInhibition": 1, "inputWidth": 0, "synPermInactiveDec": 0.0005, "synPermActiveInc": 0.0001, "potentialPct": 0.8, "boostStrength": 0.0}}
